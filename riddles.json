@@ -1,0 +1,62 @@
+[
+   {
+      "id":1,
+      "riddle":"What is a correct syntax to output 'Hello World' in C++?",
+      "options":[
+         "cout << “Hello World”;",
+         "System.out.printIn(“Hello World”);",
+         "Console.WriteLine(“Hello World”);",
+         "print(“Hello World”);"
+      ],
+      "hint":"The answer is not the same as in Python.",
+      "correctOption":0
+   },
+   {
+      "id":2,
+      "riddle":"Which data type is used to create a variable that should store text?",
+      "options":[
+         "String",
+         "Txt",
+         "myString",
+         "string"
+      ],
+      "hint":"It’s not my String, it’s your String.",
+      "correctOption":3
+   },
+   {
+      "id":3,
+      "riddle":"How do you create a variable with the numeric value 5?",
+      "options":[
+         "int x = 5;",
+         "num x = 5",
+         "double x = 5;",
+         "x = 5;"
+      ],
+      "hint":"What is ‘x’ sometimes referred to as?",
+      "correctOption":0
+   },
+   {
+      "id":4,
+      "riddle":"Which method can be used to find the length of a string?",
+      "options":[
+         "len()",
+         "getSize()",
+         "length()",
+         "getLength()"
+      ],
+      "hint":"The answer contains the word ‘length’",
+      "correctOption":2
+   },
+   {
+      "id":5,
+      "riddle":"How do you create a function in C++?",
+      "options":[
+         "functionName[]",
+         "functionName()",
+         "functionName.",
+         "(functionName)"
+      ],
+      "hint":"The answer contains parenthesis.",
+      "correctOption":1
+   }
+]
